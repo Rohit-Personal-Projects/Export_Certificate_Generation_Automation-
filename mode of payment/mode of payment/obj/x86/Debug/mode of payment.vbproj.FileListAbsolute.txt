@@ -1,0 +1,25 @@
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\bin\Debug\mode of payment.exe
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\bin\Debug\mode of payment.pdb
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\bin\Debug\mode of payment.xml
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\mode_of_payment.Form1.resources
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\mode_of_payment.Resources.resources
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\mode of payment.exe
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\mode of payment.xml
+C:\Users\OFILAM\AppData\Local\Temporary Projects\mode of payment\obj\x86\Debug\mode of payment.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\mode of payment.exe
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\mode of payment.xml
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\mode of payment.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\bin\Debug\mode of payment.exe
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\bin\Debug\mode of payment.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\bin\Debug\mode of payment.xml
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\mode_of_payment.Form1.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\mode_of_payment.Resources.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\mode of payment\mode of payment\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\mode of payment\mode of payment\obj\x86\Debug\mode of payment.exe
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\mode of payment\mode of payment\obj\x86\Debug\mode of payment.xml
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\mode of payment\mode of payment\obj\x86\Debug\mode of payment.pdb

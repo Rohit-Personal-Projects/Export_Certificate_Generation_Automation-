@@ -1,0 +1,40 @@
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\bin\Debug\1Project.exe
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\bin\Debug\1Project.pdb
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\bin\Debug\1Project.xml
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\_1Project.Form1.resources
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\_1Project.Resources.resources
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\1Project.exe
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\1Project.xml
+C:\Users\rohit\AppData\Local\Temporary Projects\1Project\obj\x86\Debug\1Project.pdb
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\1Project.exe
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\1Project.xml
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\1Project.pdb
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\bin\Debug\1Project.exe
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\bin\Debug\1Project.pdb
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\bin\Debug\1Project.xml
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\_1Project.Resources.resources
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rohit\documents\visual studio 2010\Projects\1Project\1Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\1Project\1Project\obj\x86\Debug\1Project.vbproj.ResolveComReference.cache
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\1Project\1Project\obj\x86\Debug\_1Project.InputDetails.resources
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.vbproj.ResolveComReference.cache
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.exe
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.xml
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.pdb
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\bin\Debug\1Project.exe
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\bin\Debug\1Project.pdb
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\bin\Debug\1Project.xml
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\_1Project.InputDetails.resources
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\_1Project.Resources.resources
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\1Project\1Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ExpImp\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.vbproj.ResolveComReference.cache
+D:\ExpImp\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.exe
+D:\ExpImp\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.xml
+D:\ExpImp\MainImportExportProject\1Project\1Project\obj\x86\Debug\1Project.pdb
+D:\ExpImp\MainImportExportProject\1Project\1Project\obj\x86\Debug\ResolveAssemblyReference.cache

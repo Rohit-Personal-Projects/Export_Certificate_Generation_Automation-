@@ -1,0 +1,14 @@
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\bin\Debug\itchsreport.exe
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\bin\Debug\itchsreport.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\bin\Debug\itchsreport.xml
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\itchs.Form1.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\itchs.Resources.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\itchsreport.exe
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\itchsreport.xml
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\itchsreport\itchsreport\obj\x86\Debug\itchsreport.pdb
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\itchsreport\itchsreport\obj\x86\Debug\itchsreport.exe
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\itchsreport\itchsreport\obj\x86\Debug\itchsreport.xml
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\itchsreport\itchsreport\obj\x86\Debug\itchsreport.pdb

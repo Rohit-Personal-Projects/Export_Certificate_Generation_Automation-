@@ -1,0 +1,28 @@
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\bin\Debug\iec.exe
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\bin\Debug\iec.pdb
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\bin\Debug\iec.xml
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\iec.Form1.resources
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\iec.Resources.resources
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\iec.exe
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\iec.xml
+C:\Users\OFILAM\AppData\Local\Temporary Projects\iec\obj\x86\Debug\iec.pdb
+C:\Users\OFILAM\documents\visual studio 2010\Projects\iec\iec\obj\x86\Debug\iec.exe
+C:\Users\OFILAM\documents\visual studio 2010\Projects\iec\iec\obj\x86\Debug\iec.xml
+C:\Users\OFILAM\documents\visual studio 2010\Projects\iec\iec\obj\x86\Debug\iec.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\bin\Debug\iec.exe
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\bin\Debug\iec.pdb
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\bin\Debug\iec.xml
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\obj\x86\Debug\iec.Form1.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\obj\x86\Debug\iec.Resources.resources
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OFILAM\Documents\Visual Studio 2010\Projects\iec\iec\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\iec\iec\obj\x86\Debug\iec.exe
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\iec\iec\obj\x86\Debug\iec.xml
+C:\Users\rohit\Documents\Visual Studio 2010\Projects\MainImportExportProject\iec\iec\obj\x86\Debug\iec.pdb
+D:\MainImportExportProject\iec\iec\obj\x86\Debug\iec.exe
+D:\MainImportExportProject\iec\iec\obj\x86\Debug\iec.xml
+D:\MainImportExportProject\iec\iec\obj\x86\Debug\iec.pdb
